@@ -55,7 +55,7 @@ if(direction=="east"):
   choice1=choice1.lower()
   
   if choice1 == "people":
-    print("You have been branded a murderer by the Warrior King for killing outside the colliseum: Game Over!!!")
+    print("You go on a murder spree trying to level up and have been branded a murderer by the Warrior King for killing outside the colliseum: Game Over!!!")
     
   else:
     print("Congratulations, after 10 weeks you have now leveled up to Level 70 thanks to your 'Extra EP' skill")
